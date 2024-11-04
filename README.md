@@ -90,11 +90,11 @@ Overview
 
 
 
-**Technology Stack:
+**Technology Stack:**
 
-Backend:
+**Backend:**
 
-Spring Boot:** Provides RESTful APIs for managing properties, tenants, and contracts.
+**Spring Boot:** Provides RESTful APIs for managing properties, tenants, and contracts.
 
 **MySQL:** For data persistence, storing property details, user information, and lease agreement.
 
@@ -104,11 +104,11 @@ Spring Boot:** Provides RESTful APIs for managing properties, tenants, and contr
 **React:** For building a dynamic user interface, allowing users to view and interact with the system in real time.
 
 
-**API Testing:
+**API Testing:**
 
-Postman:** For testing backend APIs and ensuring that data is being processed and returned correctly.
+**Postman:** For testing backend APIs and ensuring that data is being processed and returned correctly.
 
 
-**Additional Tools:
+**Additional Tools:**
 
-Spring Data JPA:** To interact with the database and manage data operations in a more abstracted way.
+**Spring Data JPA:** To interact with the database and manage data operations in a more abstracted way.
